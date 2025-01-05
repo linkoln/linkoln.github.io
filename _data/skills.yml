@@ -1,19 +1,16 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
       - C++
-      - Python
-      - Design Patterns
+      - Qt
 
 - name: Mobile Developer Keywords
   keywords:
       - Android
       - Reverse Engineering
+      - VirtualBox
 
 - name: Windows Developer Keywords
   keywords:
       - Win32 SDK
-      - DuiLib
-      - WTL
       - COM
       - WinDbg
