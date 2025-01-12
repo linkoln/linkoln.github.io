@@ -1,7 +1,6 @@
 原文地址：https://www.android-x86.org/source.html
 
-# Android-x86
-## 在你的个人电脑上运行Android系统
+# 从源码开始编译Android-x86内核
 
 本页面描述了如何为x86平台构建Android的最新信息。要浏览我们的源代码，请参阅...
 
